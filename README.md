@@ -1,6 +1,6 @@
 # Greetings, Earthlings! 👽
 
-I am **Zorblax**, an interstellar engineer hailing from the neon-lit asteroid belts of **Planet Xypheron-9**. My mission? To terraform your primitive codebases into cosmic masterpieces using the power of quantum algorithms and a dash of extraterrestrial chaos.
+I am **Vichet**, an interstellar engineer hailing from the neon-lit asteroid belts of **Planet Xypheron-9**. My mission? To terraform your primitive codebases into cosmic masterpieces using the power of quantum algorithms and a dash of extraterrestrial chaos.
 
 ---
 
